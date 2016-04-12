@@ -1,5 +1,5 @@
-This is an overlay for Yocto/Angstoem on the Toradex Apalis T30 board.
-It contains the Aravis video capture plugin for GStreamer 0.10.
+This is an overlay for Yocto/Ångström on the Toradex Apalis T30 board.
+It contains the simple DSP library and command-line tool for Software Defined Radio csdr.
 
 It is based on the 'meta-product' layer by Toradex.
 ===============================================================================
